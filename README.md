@@ -1,4 +1,4 @@
-# PoweshellAzureCommands
+# Poweshell Commands for Azure
 Login to Azure
 =
 `Connect-AzureRmAccount`
